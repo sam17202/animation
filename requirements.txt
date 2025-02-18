@@ -4,4 +4,3 @@ imageio
 scikit-image
 numpy
 matplotlib
-
