@@ -1,1 +1,7 @@
+Flask
+torch
+imageio
+scikit-image
+numpy
+matplotlib
 
